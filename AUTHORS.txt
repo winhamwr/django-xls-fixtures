@@ -1,0 +1,7 @@
+Authors
+=======
+
+Thanks to the following people for contributing to django-xls-fixtures.
+
+Wes Winham
+Trey Peek
