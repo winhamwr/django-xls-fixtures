@@ -6,6 +6,8 @@ import unittest
 from django.core.management import call_command
 log = logging.getLogger('nose.xls_fixtures')
 
+from test_serializer import *
+
 class test_project(unittest.TestCase):
     def setUp(self):
         self.old_settings = os.environ.get('DJANGO_SETTINGS_MODULE', None)
