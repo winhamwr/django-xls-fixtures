@@ -72,9 +72,11 @@ TEMPLATE_DIRS = (
 )
 
 INSTALLED_APPS = (
-    'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.sites',
     'project.app',
 )
+#import django
+#django.core
+#TEST_RUNNER = 'testing.test_runner.run_tests'
