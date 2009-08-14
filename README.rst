@@ -9,10 +9,9 @@ Installation
 ------------
 
  * Install (you can use our `requirements.txt` if you're using pip):
-   * _Fixture 
+   * _Fixture (Specifically the fork that adds Django support)
    * _xlrd
-   * _django-fixtures
- * Install django-xls-fixtures (you're using virtualenv, so that's easy, right?).
+ * Install django-xls-fixtures (you're using pip + virtualenv, so that's easy, right?).
 
 Usage
 -----
@@ -25,6 +24,5 @@ TODO
 
 TODO
 
-.. _Fixture: http://farmdev.com/projects/fixture/
+.. _Fixture: http://bitbucket.org/boothead/fixture-django/
 .. _xlrd: http://pypi.python.org/pypi/xlrd
-.. _django-fixtures: http://bitbucket.org/boothead/django-fixtures
